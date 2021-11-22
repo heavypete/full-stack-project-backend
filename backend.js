@@ -8,8 +8,8 @@ dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3022;
-//const mongoConnectionString = process.env.MONGODB_URI;
-const mongoConnectionString = "mongodb://localhost:27017/api001";
+const mongoConnectionString = process.env.MONGODB_URI;
+//const mongoConnectionString = "mongodb://localhost:27017/api001";
 //const client = new MongoClient(mongoConnectionString);
 mongoose.connect(mongoConnectionString);
 
