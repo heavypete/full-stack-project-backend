@@ -1,0 +1,11 @@
+- Ab heute für zwei Wochen: ein neues Submodule "Advanced MongoDB" :tada:
+	- Fullstack MERN APIs/Websites mit MongoDB Driver, MongoDB Atlas und Mongoose
+
+
+    EXPLANATION: How to use faker.js to create mock data
+LIVE-CODING: Create the backend API of a two-part user-management project
+EXERCISE #513: Create a user management app with create-react-app frontend and Express/Node that uses MongoDB Driver
+https://github.com/FbW-D01/Exercise-513-BE-ADV-createAnAPIWithMongoDBDriver
+
+How to run Mongo Server from cli:
+brew services run mongodb-community
